@@ -1,3 +1,5 @@
+// Write a C++ program to input three numbers and determine the smallest among them.
+
 #include <iostream>
 using namespace std;
 
